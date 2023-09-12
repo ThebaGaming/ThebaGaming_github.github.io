@@ -17,6 +17,6 @@ button.addEventListener("click", () => {
     longText.innerText = long.toFixed(2);
     altText.innerText = alt.toFixed(2);
     speText.innerText = speed.toFixed(2);
-    speText.innerText = acc.toFixed(2)
+    accText.innerText = acc.toFixed(2)
   });
 });
