@@ -20,9 +20,3 @@ button.addEventListener("click", () => {
     speText.innerText = acc.toFixed(2)
   });
 });
-
-let watch_button = document.getElementById("watch_button");
-
-watch_button.addEventListener("click", ()=> {
-    navigator.geolocation.watchPosition()
-})
