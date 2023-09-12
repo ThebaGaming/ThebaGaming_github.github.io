@@ -5,11 +5,12 @@
 	<meta charset="utf-8"/>
 </head>
 <body>
+    <p>
+        Your location is <span id="latitude">0.00</span>° latitude by
+        <span id="longitude">0.00</span>° longitude.
+      </p>
+      <button id="get-location">Get My Location</button>      
 
 </body>
-<script>
-    let coord = getCurrentPosition();
-    let coord2 = watchPosition();
-    console.log(coord)
-</script>
+<script src="script.js"></script>
 </html>
