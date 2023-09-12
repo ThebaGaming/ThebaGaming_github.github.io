@@ -37,6 +37,6 @@ function updateOrientation(event) {
 if ('DeviceOrientationEvent' in window) {
     window.addEventListener('deviceorientation', updateOrientation);
 } else {
-    alert("Désolé, votre navigateur ne prend pas en charge l'API DeviceOrientation.");
+    alert("Error");
 }
 
