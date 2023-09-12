@@ -11,7 +11,7 @@ button.addEventListener("click", () => {
     let lat = position.coords.latitude;
     let long = position.coords.longitude;
     let alt = position.coords.altitude;
-    let speed = position.coords.speed;
+    let speed = position.coords.speed || 0;;
     let acc = position.coords.accuracy;
     let date = new Date(position.timestamp);
 
