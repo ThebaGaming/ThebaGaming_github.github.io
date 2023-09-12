@@ -24,3 +24,19 @@ button.addEventListener("click", () => {
     dateText.innerText = date;
   });
 });
+
+function updateOrientation(event) {
+    const alpha = event.alpha.toFixed(2);
+    const beta = event.beta.toFixed(2);
+    const gamma = event.gamma.toFixed(2);
+
+    document.getElementById('alpha').textContent = alpha;
+    document.getElementById('beta').textContent = beta;
+    document.getElementById('gamma').textContent = gamma;
+}
+if ('DeviceOrientationEvent' in window) {
+    window.addEventListener('deviceorientation', updateOrientation);
+} else {
+    alert("Désolé, votre navigateur ne prend pas en charge l'API DeviceOrientation.");
+}
+
