@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+	<title>GeoCarto</title>
+	<meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+    <button id="get-location">Afficher position</button>
+    <button id="get-location2">Afficher position2</button>
+    <div id="map"></div>
+    <div id="distance-info"></div>
+</body>
+<script>
+
+var niceCoordinates = [43.7102, 7.2620];
+
+var map = L.map('map').setView([51.505, -0.09], 13);
+
+L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.{ext}', {
+    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    minZoom: 1,
+    maxZoom: 20,
+    ext: 'png'
+}).addTo(map);
+
+let button = document.getElementById("get-location");
+let button2 = document.getElementById("get-location2");
+
+
+button.addEventListener("click", () => {
+  navigator.geolocation.getCurrentPosition((position) => {
+    let lat = position.coords.latitude || 0;
+    let long = position.coords.longitude || 0;
+    let acc = position.coords.accuracy || 0;
+
+    map.setView([25.7617, -80.1917902], 6);
+
+    var polygon = L.polygon([
+        [25.7617, -80.1917902],
+        [32.3078, -64.7505],
+        [18.4655, -66.1057]
+    ],{
+        color: 'red'
+    }).addTo(map);
+
+  });
+});
+
+button2.addEventListener("click", () => {
+        navigator.geolocation.getCurrentPosition((position) => {
+            let userLat = position.coords.latitude;
+            let userLng = position.coords.longitude;
+
+            // Calculate distance using Haversine formula
+            function calculateDistance(lat1, lon1, lat2, lon2) {
+                const earthRadius = 6371;  // Radius of the Earth in kilometers
+                const dLat = (lat2 - lat1) * Math.PI / 180;
+                const dLon = (lon2 - lon1) * Math.PI / 180;
+                const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                          Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                          Math.sin(dLon / 2) * Math.sin(dLon / 2);
+                const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+                const distance = earthRadius * c;  // Distance in kilometers
+                return distance;
+            }
+
+            const distance = calculateDistance(userLat, userLng, niceCoordinates[0], niceCoordinates[1]);
+
+            // Display distance
+            document.getElementById('distance-info').innerHTML = 'Distance entre votre position et Nice : ' + distance.toFixed(2) + ' km';
+
+            // Open a popup with the distance
+            L.popup()
+                .setLatLng([userLat, userLng])
+                .setContent('Distance entre votre position et Nice : ' + distance.toFixed(2) + ' km')
+                .openOn(map);
+        });
+    });
+
+</script>
+</html>
