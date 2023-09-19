@@ -1,0 +1,5657 @@
+{
+  "numFound": 10,
+  "objetsTouristiques": [
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 4741337,
+      "nom": {
+        "libelleFr": "Galeries Lafayette Nice Masséna"
+      },
+      "identifier": "SITRA2_COS_4741337",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2017-05-16T15:08:44.779+0000",
+        "dateModification": "2023-09-04T08:16:13.212+0000",
+        "dateExportModification": "2023-09-18T18:41:07.818+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 41979562,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "+33(0)4 92 17 36 36"
+            }
+          },
+          {
+            "identifiant": 41979563,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 205,
+              "libelleFr": "Site web (URL)",
+              "ordre": 3
+            },
+            "coordonnees": {
+              "fr": "https://www.galerieslafayette.com/m/magasin-nice"
+            }
+          }
+        ],
+        "structureInformation": {
+          "type": "STRUCTURE",
+          "id": 4741336,
+          "nom": {
+            "libelleFr": "GALERIES LAFAYETTE NICE MASSENA"
+          },
+          "identifier": "SITRA2_STR_4741336",
+          "state": "PUBLISHED",
+          "adresse": {
+            "adresse1": "6,avenue Jean Médecin",
+            "codePostal": "06000",
+            "commune": {
+              "id": 2020,
+              "code": "06088",
+              "nom": "Nice",
+              "pays": {
+                "elementReferenceType": "Pays",
+                "id": 532,
+                "libelleFr": "France",
+                "ordre": 78
+              },
+              "codePostal": "06000"
+            }
+          },
+          "geolocalisation": {
+            "valide": true
+          }
+        }
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "La façade d'ocre rouge aux volets bleus et aux arcades de style turinois des Galeries Lafayette Nice Massena frappe d'emblée le regard."
+        },
+        "descriptifDetaille": {
+          "libelleFr": "Deuxième magasin sur la clientèle internationale après Paris, les Galeries Lafayette, tout en confirmant leur identité haussmanienne, offrent sur 13 000 m2 et 5 niveaux, un nouveau design accueillant des griffes prestigieuses. Au total 600 marques sont représentées dans un éventail d'articles. Le restaurant \"Bella Bay\" pour une pause café ou un déjeuner convivial offre une vue imprenable sur la Place Masséna.\n \n 6 boutiques d'exception (Balenciaga - Bottega Veneta - Chloé - Gucci - Saint Laurent - Valentino) vous accueillent aux Galeries Lafayette Place Masséna pour une expérience shopping unique à Nice."
+        },
+        "typologiesPromoSitra": [
+          {
+            "elementReferenceType": "TypologiePromoSitra",
+            "id": 1680,
+            "libelleFr": "Qualité Tourisme™",
+            "ordre": 215,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 113,
+              "libelleFr": "National",
+              "ordre": 95
+            }
+          },
+          {
+            "elementReferenceType": "TypologiePromoSitra",
+            "id": 6166,
+            "libelleFr": "Chartes sanitaires et autres dispositifs sanitaire d’accueil",
+            "ordre": 148,
+            "description": "Chartes et dispositifs contenant des règles d'accueil et d'usage spécifiques, développés par exemple par des chaines (charte Accor hôtels, charte camping soleil etc.)",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 113,
+              "libelleFr": "National",
+              "ordre": 95
+            }
+          }
+        ]
+      },
+      "localisation": {
+        "adresse": {
+          "adresse1": "6 avenue Jean Médecin",
+          "codePostal": "06000",
+          "commune": {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        },
+        "geolocalisation": {
+          "valide": true,
+          "geoJson": {
+            "type": "Point",
+            "coordinates": [
+              7.2696,
+              43.698299
+            ]
+          }
+        },
+        "perimetreGeographique": [
+          {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "services": [
+          {
+            "elementReferenceType": "PrestationService",
+            "id": 6304,
+            "libelleFr": "Privatisable",
+            "ordre": 79,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 79,
+              "libelleFr": "Aide au client / réservation",
+              "ordre": 7
+            }
+          }
+        ],
+        "animauxAcceptes": "NON_DISPONIBLE",
+        "languesParlees": [
+          {
+            "elementReferenceType": "Langue",
+            "id": 1189,
+            "libelleFr": "Allemand",
+            "ordre": 1
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1192,
+            "libelleFr": "Anglais",
+            "ordre": 2
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1194,
+            "libelleFr": "Espagnol",
+            "ordre": 12
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1197,
+            "libelleFr": "Français",
+            "ordre": 13
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1200,
+            "libelleFr": "Italien",
+            "ordre": 17
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1205,
+            "libelleFr": "Russe",
+            "ordre": 27
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1206,
+            "libelleFr": "Chinois",
+            "ordre": 7
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 4306,
+            "libelleFr": "Portugais",
+            "ordre": 24
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 4605,
+            "libelleFr": "Arabe",
+            "ordre": 3
+          }
+        ],
+        "tourismesAdaptes": [
+          {
+            "elementReferenceType": "TourismeAdapte",
+            "id": 3653,
+            "libelleFr": "Accessible en fauteuil roulant en autonomie",
+            "ordre": 1,
+            "description": "Pour qu'un site soit accessible en fauteuil roulant en autonomie, il doit répondre à tous les critères listés dans \"Critères d'accessibilité pour personnes à mobilité réduite\".\n \n Une personne en fauteuil roulant est en mesure de prendre son véhicule ou un transport en commun et de se déplacer seule dans les parties communes ou privatives du site.",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 3650,
+              "libelleFr": "Critères d'accessibilité pour déficience motrice",
+              "ordre": 31,
+              "description": "Conditions à remplir pour qu'un site soit considéré comme accessible en fauteuil roulant."
+            }
+          }
+        ]
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Toute l'année \nOuverture le lundi, mardi, mercredi, jeudi, vendredi et samedi de 10h à 21h. Le dimanche de 11h à 20h.\nFermetures exceptionnelles les 1er janvier, 1er mai et 25 décembre."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 21449059,
+            "dateDebut": "2023-01-01",
+            "dateFin": "2023-12-31",
+            "type": "OUVERTURE_TOUS_LES_JOURS",
+            "tousLesAns": true,
+            "identifiantTechnique": 27524828
+          }
+        ],
+        "fermeturesExceptionnelles": [
+          {
+            "dateSpeciale": "PREMIER_JANVIER"
+          },
+          {
+            "dateSpeciale": "PREMIER_MAI"
+          },
+          {
+            "dateSpeciale": "VINGT_CINQ_DECEMBRE"
+          }
+        ],
+        "ouvertTouteLAnnee": "OUVERT_TOUTE_L_ANNEE"
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "modesPaiement": [
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 1265,
+            "libelleFr": "American Express",
+            "ordre": 2
+          },
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 1268,
+            "libelleFr": "Carte bancaire/crédit",
+            "ordre": 5
+          },
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 1271,
+            "libelleFr": "Chèque",
+            "ordre": 11
+          },
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 1277,
+            "libelleFr": "Espèces",
+            "ordre": 25
+          },
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 1281,
+            "libelleFr": "Virement",
+            "ordre": 40
+          },
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 5868,
+            "libelleFr": "Union Pay",
+            "ordre": 39
+          }
+        ],
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "contacts": [
+        {
+          "identifiant": 13699859,
+          "referent": true,
+          "civilite": {
+            "elementReferenceType": "ContactCivilite",
+            "id": 443,
+            "libelleFr": "Monsieur",
+            "ordre": 9
+          },
+          "nom": "SERNIT",
+          "prenom": "Guillaume",
+          "moyensCommunication": [
+            {
+              "identifiant": 90524703,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 204,
+                "libelleFr": "Mél",
+                "ordre": 2
+              },
+              "coordonnees": {
+                "fr": "gsernit@galerieslafayette.com"
+              }
+            }
+          ]
+        }
+      ],
+      "illustrations": [
+        {
+          "identifiant": 10530924,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "FacadeGAngleHD+pub+2015.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/155/10329036.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/155/10329036-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/155/10329036-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/155/10329036-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "FacadeGAngleHD+pub+2015",
+              "taille": 4742696,
+              "hauteur": 1748,
+              "largeur": 3321,
+              "lastModifiedDate": "2021-07-19T14:09:57.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10530925,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "BB1A4635.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/155/10329037.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/155/10329037-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/155/10329037-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/155/10329037-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "BB1A4635",
+              "taille": 982805,
+              "hauteur": 1500,
+              "largeur": 1000,
+              "lastModifiedDate": "2021-07-19T14:09:59.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10530926,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "ESPACE ATELIERS NIVEAU 4 (2).jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/155/10329038.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/155/10329038-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/155/10329038-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/155/10329038-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "ESPACE ATELIERS NIVEAU 4 (2)",
+              "taille": 179799,
+              "hauteur": 602,
+              "largeur": 902,
+              "lastModifiedDate": "2021-07-19T14:10:00.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10530927,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "IMG_7152.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/155/10329039.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/155/10329039-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/155/10329039-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/155/10329039-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "IMG_7152",
+              "taille": 3002432,
+              "hauteur": 1667,
+              "largeur": 2500,
+              "lastModifiedDate": "2021-07-19T14:10:01.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10530928,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "IMG_3455 (1).jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/155/10329040.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/155/10329040-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/155/10329040-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/155/10329040-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "IMG_3455 (1)",
+              "taille": 7126620,
+              "hauteur": 2800,
+              "largeur": 4200,
+              "lastModifiedDate": "2021-07-19T14:10:02.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10530929,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "IMG_3490.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/155/10329041.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/155/10329041-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/155/10329041-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/155/10329041-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "IMG_3490",
+              "taille": 6578674,
+              "hauteur": 2800,
+              "largeur": 4200,
+              "lastModifiedDate": "2021-07-19T14:10:06.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10530930,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "IMG_3431.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/155/10329042.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/155/10329042-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/155/10329042-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/155/10329042-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "IMG_3431",
+              "taille": 3326374,
+              "hauteur": 1400,
+              "largeur": 2100,
+              "lastModifiedDate": "2021-07-19T14:10:09.000+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 100012,
+          "nom": {
+            "libelleFr": "GR®5-Alpes"
+          },
+          "identifier": "sitraGEO732242",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100154,
+          "nom": {
+            "libelleFr": "Chemins du Soleil"
+          },
+          "identifier": "sitraGEO732307",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100180,
+          "nom": {
+            "libelleFr": "Route des Grandes Alpes"
+          },
+          "identifier": "sitraGEO732222",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 4920302,
+          "nom": {
+            "libelleFr": "P'tites Routes du Soleil"
+          },
+          "identifier": "SITRA2_GEO_4920302",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5511142,
+          "nom": {
+            "libelleFr": "Littoral autour de Nice"
+          },
+          "identifier": "SITRA2_GEO_5511142",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5674661,
+          "nom": {
+            "libelleFr": "Ville de Nice"
+          },
+          "identifier": "SITRA2_GEO_5674661",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2058,
+            "libelleFr": "Divers autres commerces",
+            "ordre": 380,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2161,
+            "libelleFr": "Boutique de luxe",
+            "ordre": 399,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2058,
+              "libelleFr": "Divers autres commerces",
+              "ordre": 380
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2197,
+            "libelleFr": "Centre commercial / Galerie marchande",
+            "ordre": 346,
+            "description": "Concerne les centres commerciaux et les importantes galeries marchandes (pas celles de 2-3 magasins dans les halls des grandes surfaces alimentaires)",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {},
+      "donneesPrivees": [
+        {
+          "nomTechnique": "descr_FRPAvantage",
+          "libelleFr": "FRP avantage",
+          "ordre": 2,
+          "descriptif": {
+            "libelleFr": "Cadeau Exclusif !\n Pour recevoir votre cadeau* présentez-vous au service clientèle. *minimum d’achat de 30 €"
+          }
+        },
+        {
+          "nomTechnique": "descr_Frp",
+          "libelleFr": "FRP",
+          "ordre": 1,
+          "descriptif": {}
+        },
+        {
+          "nomTechnique": "descr_Famille",
+          "libelleFr": "Famille",
+          "ordre": 5,
+          "descriptif": {
+            "libelleFr": "Nurserie au niveau 2 du magasin / Espace Enfant"
+          }
+        }
+      ],
+      "aspects": [
+        {
+          "aspect": "GROUPES",
+          "champsAspect": [
+            "presentation.descriptifDetaille"
+          ],
+          "presentation": {
+            "descriptifDetaille": {
+              "libelleFr": "Bureaux d’accueil au rez-de-chaussée et au 4e étage. \n - Hôtesse multilingue. \n - Services spécialisés clientèle internationale (vos clients, si vous en faites la demande, bénéficient entre autres d’une carte d’escompte exceptionnel de 10% \u0019personnalisée avec le logo de votre choix, ainsi que des plans de ville, un accueil personnalisé possible, salon VIP, etc…). \n - Détaxe à l’exportation de 12% au-dessus de 175 € dans la journée pour les pays hors de l’Union Européenne, selon la réglementation en vigueur)."
+            }
+          }
+        },
+        {
+          "aspect": "TOURISME_AFFAIRES",
+          "champsAspect": [
+            "presentation.descriptifDetaille"
+          ],
+          "presentation": {
+            "descriptifDetaille": {
+              "libelleFr": "Si vous en faites la demande, vos clients pourront disposer entre autres d’une carte d’escompte exceptionnel de 10\u0019% personnalisée avec le logo de votre choix, ainsi que des plans de ville, un accueil particulier possible avec les Personal Shopper, des salons VIP, privatisation du magasin etc..."
+            }
+          }
+        }
+      ],
+      "metadonnees": [
+        {
+          "noeudId": "fairguest",
+          "contenus": [
+            {
+              "cible": "general",
+              "metadonnee": {
+                "note": 8.5,
+                "label": "Très bon",
+                "couleur": "#71a63e",
+                "nombreAvis": 3500,
+                "dateMaj": 1695056801978
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 4741853,
+      "nom": {
+        "libelleFr": "Centre Commercial CAP3000"
+      },
+      "identifier": "SITRA2_COS_4741853",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2017-05-17T07:06:27.241+0000",
+        "dateModification": "2023-05-23T09:27:36.225+0000",
+        "dateExportModification": "2023-09-18T18:22:29.254+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 42031586,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "+33(0)4 93 19 45 19"
+            }
+          },
+          {
+            "identifiant": 106885225,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 204,
+              "libelleFr": "Mél",
+              "ordre": 2
+            },
+            "coordonnees": {
+              "fr": "ekaram@altarea.com"
+            }
+          },
+          {
+            "identifiant": 42031587,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 205,
+              "libelleFr": "Site web (URL)",
+              "ordre": 3
+            },
+            "coordonnees": {
+              "fr": "http://www.cap3000.com"
+            }
+          },
+          {
+            "identifiant": 42031588,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 207,
+              "libelleFr": "Page facebook",
+              "ordre": 7
+            },
+            "coordonnees": {
+              "fr": "https://www.facebook.com/CentreCommercialCap3000/"
+            }
+          },
+          {
+            "identifiant": 69272423,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 3755,
+              "libelleFr": "X",
+              "ordre": 9,
+              "description": "Réseau social ex-Twitter"
+            },
+            "coordonnees": {
+              "fr": "https://twitter.com/CCap3000"
+            }
+          }
+        ],
+        "structureInformation": {
+          "type": "STRUCTURE",
+          "id": 4741852,
+          "nom": {
+            "libelleFr": "Centre Commercial Cap 3000"
+          },
+          "identifier": "SITRA2_STR_4741852",
+          "state": "PUBLISHED",
+          "adresse": {
+            "adresse1": "Avenue Eugène Donadeï",
+            "codePostal": "06700",
+            "commune": {
+              "id": 2055,
+              "code": "06123",
+              "nom": "Saint-Laurent-du-Var",
+              "pays": {
+                "elementReferenceType": "Pays",
+                "id": 532,
+                "libelleFr": "France",
+                "ordre": 78
+              },
+              "codePostal": "06700"
+            }
+          },
+          "geolocalisation": {
+            "valide": true,
+            "geoJson": {
+              "type": "Point",
+              "coordinates": [
+                7.195204,
+                43.659688
+              ]
+            }
+          }
+        }
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "Un cadre exceptionnel face à la mer, une multitude de services, une offre commerciale et expérience exclusive... CAP3000, élu Meilleur Centre Commercial au Monde en 2022, est le plus grand centre commercial vue mer de la Côte d’Azur ! Ouvert 7j/7."
+        },
+        "descriptifDetaille": {
+          "libelleFr": "CAP3000 est devenu un véritable lieu de vie, proposant aujourd’hui une expérience shopping vue mer exceptionnelle à 5 min de l’aéroport de Nice. Près de 300 boutiques et 50 restaurants, dont des espaces uniques tels que : \"IT Villagio\", une trattoria XXL avec vue mer, \"Auberi\", un espace Haute Horlogerie, les Galeries Lafayette, des enseignes exclusives (Apple Store, Lego® Store, Victoria's Secret, Urban Outfitters, Nike...), le concept-store \"CAPSULE@CAP3000\" dédié aux nouvelles marques locales et \"La Tete Dans les Nuages\", le nouvel espace de divertissement dédié aux loisirs.\n \"Shop, Food, Fun, Enjoy\" @CAP3000"
+        }
+      },
+      "localisation": {
+        "adresse": {
+          "adresse1": "Avenue Eugène Donadeï",
+          "codePostal": "06700",
+          "commune": {
+            "id": 2055,
+            "code": "06123",
+            "nom": "Saint-Laurent-du-Var",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06700"
+          }
+        },
+        "geolocalisation": {
+          "valide": true,
+          "geoJson": {
+            "type": "Point",
+            "coordinates": [
+              7.1952,
+              43.659698
+            ]
+          }
+        },
+        "perimetreGeographique": [
+          {
+            "id": 2055,
+            "code": "06123",
+            "nom": "Saint-Laurent-du-Var",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06700"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "animauxAcceptes": "NON_DISPONIBLE",
+        "languesParlees": [
+          {
+            "elementReferenceType": "Langue",
+            "id": 1192,
+            "libelleFr": "Anglais",
+            "ordre": 2
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1200,
+            "libelleFr": "Italien",
+            "ordre": 17
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1205,
+            "libelleFr": "Russe",
+            "ordre": 27
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1206,
+            "libelleFr": "Chinois",
+            "ordre": 7
+          }
+        ],
+        "tourismesAdaptes": [
+          {
+            "elementReferenceType": "TourismeAdapte",
+            "id": 3653,
+            "libelleFr": "Accessible en fauteuil roulant en autonomie",
+            "ordre": 1,
+            "description": "Pour qu'un site soit accessible en fauteuil roulant en autonomie, il doit répondre à tous les critères listés dans \"Critères d'accessibilité pour personnes à mobilité réduite\".\n \n Une personne en fauteuil roulant est en mesure de prendre son véhicule ou un transport en commun et de se déplacer seule dans les parties communes ou privatives du site.",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 3650,
+              "libelleFr": "Critères d'accessibilité pour déficience motrice",
+              "ordre": 31,
+              "description": "Conditions à remplir pour qu'un site soit considéré comme accessible en fauteuil roulant."
+            }
+          },
+          {
+            "elementReferenceType": "TourismeAdapte",
+            "id": 3655,
+            "libelleFr": "Place réservée PMR",
+            "ordre": 18,
+            "description": "Dans le \"Descriptif handicap moteur\", précisez le nb de places réservées et la distance du lieu, bâtiment.",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 3650,
+              "libelleFr": "Critères d'accessibilité pour déficience motrice",
+              "ordre": 31,
+              "description": "Conditions à remplir pour qu'un site soit considéré comme accessible en fauteuil roulant."
+            }
+          },
+          {
+            "elementReferenceType": "TourismeAdapte",
+            "id": 3663,
+            "libelleFr": "Ascenseur aux normes",
+            "ordre": 28,
+            "description": "Dimensions intérieure de l'ascenseur : 80 x 130 cm et porte >= 77 cm",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 3650,
+              "libelleFr": "Critères d'accessibilité pour déficience motrice",
+              "ordre": 31,
+              "description": "Conditions à remplir pour qu'un site soit considéré comme accessible en fauteuil roulant."
+            }
+          },
+          {
+            "elementReferenceType": "TourismeAdapte",
+            "id": 3667,
+            "libelleFr": "WC + barre d'appui + espace de circulation",
+            "ordre": 39,
+            "description": "Aire rotation 150 cm ou espace latéral 80*130 + barres d’appui",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 3650,
+              "libelleFr": "Critères d'accessibilité pour déficience motrice",
+              "ordre": 31,
+              "description": "Conditions à remplir pour qu'un site soit considéré comme accessible en fauteuil roulant."
+            }
+          }
+        ]
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Toute l'année de 8h30 à 21h.\nFermetures exceptionnelles les 1er janvier, 1er mai et 25 décembre."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 20993106,
+            "dateDebut": "2023-01-01",
+            "dateFin": "2023-12-31",
+            "horaireOuverture": "08:30:00",
+            "horaireFermeture": "21:00:00",
+            "type": "OUVERTURE_TOUS_LES_JOURS",
+            "tousLesAns": true,
+            "identifiantTechnique": 26597417
+          }
+        ],
+        "fermeturesExceptionnelles": [
+          {
+            "dateSpeciale": "PREMIER_JANVIER"
+          },
+          {
+            "dateSpeciale": "PREMIER_MAI"
+          },
+          {
+            "dateSpeciale": "VINGT_CINQ_DECEMBRE"
+          }
+        ],
+        "ouvertTouteLAnnee": "OUVERT_TOUTE_L_ANNEE"
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "criteresInternes": [
+        {
+          "id": 18305,
+          "libelle": "Guide Pet Friendly",
+          "commentaire": "Fiches faisant partie du de l'offre Pet friendly"
+        }
+      ],
+      "contacts": [
+        {
+          "identifiant": 16245512,
+          "referent": true,
+          "civilite": {
+            "elementReferenceType": "ContactCivilite",
+            "id": 442,
+            "libelleFr": "Madame",
+            "ordre": 4
+          },
+          "nom": "KARAM",
+          "prenom": "Elsy",
+          "titre": {
+            "libelleFr": "Responsable Développement Tourisme"
+          },
+          "fonction": {
+            "elementReferenceType": "ContactFonction",
+            "id": 456,
+            "libelleFr": "Indéterminé",
+            "ordre": 10
+          },
+          "moyensCommunication": [
+            {
+              "identifiant": 88852386,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 204,
+                "libelleFr": "Mél",
+                "ordre": 2
+              },
+              "coordonnees": {
+                "fr": "ekaram@altarea.com"
+              }
+            },
+            {
+              "identifiant": 104065734,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 201,
+                "libelleFr": "Téléphone",
+                "ordre": 1
+              },
+              "coordonnees": {
+                "fr": "06 98 46 59 20"
+              }
+            }
+          ]
+        }
+      ],
+      "illustrations": [
+        {
+          "identifiant": 16770310,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "CAP3000 PHOTO PRINCIPALE- architecture Groupe-6 photo Michel Denancé.jpg"
+          },
+          "legende": {},
+          "copyright": {
+            "libelleFr": "© Groupe-6,Groupe-6"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/248/17234116.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/248/17234116-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/248/17234116-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/248/17234116-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "CAP3000 PHOTO PRINCIPALE- architecture Groupe-6 photo Michel DenancÃ©",
+              "taille": 1465846,
+              "hauteur": 1182,
+              "largeur": 1773,
+              "lastModifiedDate": "2023-04-21T13:19:41.374+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "multimedias": [
+        {
+          "identifiant": 15559659,
+          "link": true,
+          "type": "INSTAGRAM",
+          "nom": {
+            "libelleFr": "cap3000_cotedazur"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://www.instagram.com/cap3000_cotedazur/?hl=fr"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 15559660,
+          "link": false,
+          "type": "LOGO",
+          "nom": {
+            "libelleFr": "CAP3000_LOGOTYPE.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/logos/251/13/15994363/CAP3000_LOGOTYPE.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/logos/251/13/15994363-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/logos/251/13/15994363-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/logos/251/13/15994363-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "CAP3000_LOGOTYPE",
+              "taille": 135497,
+              "hauteur": 507,
+              "largeur": 1336,
+              "lastModifiedDate": "2023-01-09T13:46:12.938+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 100154,
+          "nom": {
+            "libelleFr": "Chemins du Soleil"
+          },
+          "identifier": "sitraGEO732307",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 4920302,
+          "nom": {
+            "libelleFr": "P'tites Routes du Soleil"
+          },
+          "identifier": "SITRA2_GEO_4920302",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5511142,
+          "nom": {
+            "libelleFr": "Littoral autour de Nice"
+          },
+          "identifier": "SITRA2_GEO_5511142",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2197,
+            "libelleFr": "Centre commercial / Galerie marchande",
+            "ordre": 346,
+            "description": "Concerne les centres commerciaux et les importantes galeries marchandes (pas celles de 2-3 magasins dans les halls des grandes surfaces alimentaires)",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {
+        "enquetes": [
+          {
+            "identifiant": 2651983,
+            "annee": 2023,
+            "retour": true,
+            "titre": {
+              "elementReferenceType": "EnqueteTitre",
+              "id": 3934,
+              "libelleFr": "Enquête annuelle",
+              "ordre": 1
+            }
+          }
+        ]
+      },
+      "donneesPrivees": [
+        {
+          "nomTechnique": "descr_Famille",
+          "libelleFr": "Famille",
+          "ordre": 5,
+          "descriptif": {
+            "libelleFr": "De nombreux services Familles, une halte-jeux, des restaurants labellisés Famille Plus, et des animations toute l'année."
+          }
+        }
+      ],
+      "aspects": [
+        {
+          "aspect": "GROUPES",
+          "champsAspect": [
+            "presentation.descriptifDetaille"
+          ],
+          "presentation": {
+            "descriptifDetaille": {
+              "libelleFr": "Des services pour les clients locaux et internationaux, accueil groupes,large gamme de restauration vue mer avec des espaces privatisables, une offre loisirs."
+            }
+          }
+        },
+        {
+          "aspect": "TOURISME_AFFAIRES",
+          "champsAspect": [
+            "presentation.descriptifDetaille",
+            "informations.moyensCommunication"
+          ],
+          "informations": {},
+          "presentation": {
+            "descriptifDetaille": {
+              "libelleFr": "Large gamme de restauration avec des espaces privatisables, des événements toute l'année."
+            }
+          }
+        }
+      ],
+      "metadonnees": [
+        {
+          "noeudId": "fairguest",
+          "contenus": [
+            {
+              "cible": "general",
+              "metadonnee": {
+                "note": 8.9,
+                "label": "Très bon",
+                "couleur": "#71a63e",
+                "nombreAvis": 7809,
+                "dateMaj": 1695056389000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 5140090,
+      "nom": {
+        "libelleFr": "Centre Commercial Polygone Riviéra"
+      },
+      "identifier": "SITRA2_COS_5140090",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2019-01-07T09:36:36.920+0000",
+        "dateModification": "2022-01-26T08:38:14.680+0000",
+        "dateExportModification": "2023-05-21T16:10:00.491+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 68582856,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "+33(0)4 97 02 01 01"
+            }
+          },
+          {
+            "identifiant": 88852556,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 205,
+              "libelleFr": "Site web (URL)",
+              "ordre": 3
+            },
+            "coordonnees": {
+              "fr": "https://www.polygone-riviera.fr"
+            }
+          }
+        ],
+        "structureGestion": {
+          "type": "STRUCTURE",
+          "id": 5140091,
+          "nom": {
+            "libelleFr": "Polygone Riviera"
+          },
+          "identifier": "SITRA2_STR_5140091",
+          "state": "PUBLISHED",
+          "adresse": {
+            "adresse1": "119 avenue des Alpes",
+            "codePostal": "06800",
+            "etat": "France",
+            "commune": {
+              "id": 1959,
+              "code": "06027",
+              "nom": "Cagnes-sur-Mer",
+              "pays": {
+                "elementReferenceType": "Pays",
+                "id": 532,
+                "libelleFr": "France",
+                "ordre": 78
+              },
+              "codePostal": "06800"
+            }
+          },
+          "geolocalisation": {
+            "valide": true,
+            "geoJson": {
+              "type": "Point",
+              "coordinates": [
+                7.12897,
+                43.663328
+              ]
+            }
+          }
+        }
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "Inspiré par les univers de Sunset Boulevard et des villages méditerranéens typiques, Polygone Riviera est organisé en quatre quartiers thématiques : La Promenade des palmiers, Le Quartier des arcades, Le Quartier des saveurs et The Designer Gallery."
+        },
+        "descriptifDetaille": {
+          "libelleFr": "Inspiré par les univers de Sunset Boulevard et des villages méditerranéens typiques, Polygone Riviera est organisé en quatre quartiers thématiques : La Promenade des palmiers, Le Quartier des arcades, Le Quartier des saveurs et The Designer Gallery."
+        },
+        "typologiesPromoSitra": [
+          {
+            "elementReferenceType": "TypologiePromoSitra",
+            "id": 1680,
+            "libelleFr": "Qualité Tourisme™",
+            "ordre": 215,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 113,
+              "libelleFr": "National",
+              "ordre": 95
+            }
+          }
+        ]
+      },
+      "localisation": {
+        "adresse": {
+          "adresse1": "119 av des Alpes",
+          "codePostal": "06800",
+          "etat": "France",
+          "commune": {
+            "id": 1959,
+            "code": "06027",
+            "nom": "Cagnes-sur-Mer",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06800"
+          }
+        },
+        "geolocalisation": {
+          "valide": true,
+          "geoJson": {
+            "type": "Point",
+            "coordinates": [
+              7.12842,
+              43.664101
+            ]
+          }
+        },
+        "perimetreGeographique": [
+          {
+            "id": 1959,
+            "code": "06027",
+            "nom": "Cagnes-sur-Mer",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06800"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "animauxAcceptes": "NON_DISPONIBLE"
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Toute l'année."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 21145996,
+            "dateDebut": "2021-01-01",
+            "dateFin": "2021-12-31",
+            "type": "OUVERTURE_TOUS_LES_JOURS",
+            "tousLesAns": true,
+            "identifiantTechnique": 22560451
+          }
+        ],
+        "ouvertTouteLAnnee": "OUVERT_TOUTE_L_ANNEE"
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "contacts": [
+        {
+          "identifiant": 19235349,
+          "referent": true,
+          "civilite": {
+            "elementReferenceType": "ContactCivilite",
+            "id": 443,
+            "libelleFr": "Monsieur",
+            "ordre": 9
+          },
+          "nom": "REY",
+          "prenom": "Hugo",
+          "moyensCommunication": [
+            {
+              "identifiant": 89442972,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 204,
+                "libelleFr": "Mél",
+                "ordre": 2
+              },
+              "coordonnees": {
+                "fr": "accueilpolygone@gmail.com"
+              }
+            }
+          ]
+        }
+      ],
+      "illustrations": [
+        {
+          "identifiant": 10240360,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "PROMENADE DES PALMIERS (23).jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/224/10018899.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/224/10018899-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/224/10018899-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/224/10018899-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "PROMENADE DES PALMIERS (23)",
+              "taille": 2094556,
+              "hauteur": 1365,
+              "largeur": 2048,
+              "lastModifiedDate": "2021-06-09T14:33:24.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10240361,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "Capture dâeÌcran 2020-02-14 aÌ 10.28.46.png"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/84/224/10018900.png",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/84/224/10018900-liste.png",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/84/224/10018900-fiche.png",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/84/224/10018900-diaporama.png",
+              "extension": "png",
+              "fileName": "Capture dÃ¢ÂÂeÃÂcran 2020-02-14 aÃÂ 10.28.46",
+              "taille": 489729,
+              "hauteur": 400,
+              "largeur": 960,
+              "lastModifiedDate": "2021-06-09T14:33:25.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10240362,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "Capture dâeÌcran 2020-02-14 aÌ 10.28.57.png"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/224/10018901.png",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/224/10018901-liste.png",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/224/10018901-fiche.png",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/224/10018901-diaporama.png",
+              "extension": "png",
+              "fileName": "Capture dÃ¢ÂÂeÃÂcran 2020-02-14 aÃÂ 10.28.57",
+              "taille": 515395,
+              "hauteur": 419,
+              "largeur": 1001,
+              "lastModifiedDate": "2021-06-09T14:33:25.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10240363,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "LE_GUETTEUR_3805_1.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/224/10018902.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/224/10018902-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/224/10018902-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/224/10018902-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "LE_GUETTEUR_3805_1",
+              "taille": 2513897,
+              "hauteur": 7360,
+              "largeur": 4912,
+              "lastModifiedDate": "2021-06-09T14:33:12.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10240364,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "DSC_3566.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/224/10018903.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/224/10018903-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/224/10018903-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/224/10018903-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "DSC_3566",
+              "taille": 2774741,
+              "hauteur": 4912,
+              "largeur": 7360,
+              "lastModifiedDate": "2021-06-09T14:33:15.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 10240365,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "DSC_7320.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/224/10018904.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/224/10018904-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/224/10018904-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/224/10018904-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "DSC_7320",
+              "taille": 2811329,
+              "hauteur": 4912,
+              "largeur": 7360,
+              "lastModifiedDate": "2021-06-09T14:33:19.000+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5511142,
+          "nom": {
+            "libelleFr": "Littoral autour de Nice"
+          },
+          "identifier": "SITRA2_GEO_5511142",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2197,
+            "libelleFr": "Centre commercial / Galerie marchande",
+            "ordre": 346,
+            "description": "Concerne les centres commerciaux et les importantes galeries marchandes (pas celles de 2-3 magasins dans les halls des grandes surfaces alimentaires)",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {}
+    },
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 5750741,
+      "nom": {
+        "libelleFr": "Centre Commercial Nice Lingostiere"
+      },
+      "identifier": "SITRA2_COS_5750741",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2021-03-18T15:53:28.326+0000",
+        "dateModification": "2022-02-18T09:09:22.019+0000",
+        "dateExportModification": "2023-06-04T17:30:07.457+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 87471304,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "+33(0)4 93 29 91 33"
+            }
+          },
+          {
+            "identifiant": 96887454,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 204,
+              "libelleFr": "Mél",
+              "ordre": 2
+            },
+            "coordonnees": {
+              "fr": "ludovic_boudet@carmila.com"
+            }
+          },
+          {
+            "identifiant": 87471305,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 205,
+              "libelleFr": "Site web (URL)",
+              "ordre": 3
+            },
+            "coordonnees": {
+              "fr": "https://www.centre-commercial.fr/lingostiere/"
+            }
+          },
+          {
+            "identifiant": 89442485,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 207,
+              "libelleFr": "Page facebook",
+              "ordre": 7
+            },
+            "coordonnees": {
+              "fr": "https://www.facebook.com/CentreCommercialNiceLingostiere"
+            }
+          }
+        ],
+        "informationsLegales": {},
+        "structureGestion": {
+          "type": "STRUCTURE",
+          "id": 5750740,
+          "nom": {
+            "libelleFr": "Centre Commercial Carrefour Nice Lingostiere"
+          },
+          "identifier": "SITRA2_STR_5750740",
+          "state": "PUBLISHED",
+          "adresse": {
+            "adresse2": "606 bd du Mercantour",
+            "codePostal": "06200",
+            "commune": {
+              "id": 37423,
+              "code": "06088",
+              "nom": "Nice",
+              "pays": {
+                "elementReferenceType": "Pays",
+                "id": 532,
+                "libelleFr": "France",
+                "ordre": 78
+              },
+              "codePostal": "06200"
+            }
+          },
+          "geolocalisation": {
+            "valide": true
+          }
+        }
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "Hypermarché, 100 Boutiques et restaurants"
+        },
+        "descriptifDetaille": {
+          "libelleFr": "Centre commercial de 100 boutiques et restaurants avec un hypermarché Carrefour. Votre nouvelle destination shopping en famille : mode, restaurations, services..."
+        }
+      },
+      "localisation": {
+        "adresse": {
+          "adresse2": "606 bd du Mercantour",
+          "codePostal": "06200",
+          "commune": {
+            "id": 37423,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06200"
+          }
+        },
+        "geolocalisation": {
+          "valide": true,
+          "geoJson": {
+            "type": "Point",
+            "coordinates": [
+              7.18751,
+              43.720901
+            ]
+          }
+        },
+        "perimetreGeographique": [
+          {
+            "id": 37423,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06200"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "animauxAcceptes": "NON_ACCEPTES"
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Toute l'année \nOuverture le lundi, mardi, mercredi, jeudi, vendredi et samedi de 8h à 21h. Le dimanche de 8h à 12h30.\nBoutiques ouvertes de 9h00 à 20h00."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 22721311,
+            "dateDebut": "2022-01-01",
+            "dateFin": "2022-12-31",
+            "complementHoraire": {
+              "libelleFr": "Boutiques ouvertes de 9h00 à 20h00"
+            },
+            "horaireOuverture": "08:00:00",
+            "horaireFermeture": "12:30:00",
+            "type": "OUVERTURE_SEMAINE",
+            "tousLesAns": true,
+            "ouverturesJournalieres": [
+              {
+                "jour": "DIMANCHE"
+              }
+            ],
+            "identifiantTechnique": 22721311
+          }
+        ],
+        "ouvertTouteLAnnee": "OUVERT_TOUTE_L_ANNEE"
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "contacts": [
+        {
+          "identifiant": 18997885,
+          "referent": true,
+          "civilite": {
+            "elementReferenceType": "ContactCivilite",
+            "id": 443,
+            "libelleFr": "Monsieur",
+            "ordre": 9
+          },
+          "nom": "BOUDET",
+          "prenom": "Ludovic",
+          "moyensCommunication": [
+            {
+              "identifiant": 89442486,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 204,
+                "libelleFr": "Mél",
+                "ordre": 2
+              },
+              "coordonnees": {
+                "fr": "ludovic_boudet@carmila.com"
+              }
+            },
+            {
+              "identifiant": 89442487,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 201,
+                "libelleFr": "Téléphone",
+                "ordre": 1
+              },
+              "coordonnees": {
+                "fr": "+33(0)4 93 29 97 14"
+              }
+            }
+          ]
+        }
+      ],
+      "illustrations": [
+        {
+          "identifiant": 10240257,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "Sans titre.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/223/10018795.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/223/10018795-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/223/10018795-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/223/10018795-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "Sans titre",
+              "taille": 50846,
+              "hauteur": 800,
+              "largeur": 1250,
+              "lastModifiedDate": "2021-06-09T14:24:22.000+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 100012,
+          "nom": {
+            "libelleFr": "GR®5-Alpes"
+          },
+          "identifier": "sitraGEO732242",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100154,
+          "nom": {
+            "libelleFr": "Chemins du Soleil"
+          },
+          "identifier": "sitraGEO732307",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100180,
+          "nom": {
+            "libelleFr": "Route des Grandes Alpes"
+          },
+          "identifier": "sitraGEO732222",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 4920302,
+          "nom": {
+            "libelleFr": "P'tites Routes du Soleil"
+          },
+          "identifier": "SITRA2_GEO_4920302",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5674661,
+          "nom": {
+            "libelleFr": "Ville de Nice"
+          },
+          "identifier": "SITRA2_GEO_5674661",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2197,
+            "libelleFr": "Centre commercial / Galerie marchande",
+            "ordre": 346,
+            "description": "Concerne les centres commerciaux et les importantes galeries marchandes (pas celles de 2-3 magasins dans les halls des grandes surfaces alimentaires)",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {
+        "enquetes": [
+          {
+            "identifiant": 1907057,
+            "annee": 2022,
+            "retour": true,
+            "titre": {
+              "elementReferenceType": "EnqueteTitre",
+              "id": 3934,
+              "libelleFr": "Enquête annuelle",
+              "ordre": 1
+            }
+          }
+        ]
+      },
+      "donneesPrivees": [
+        {
+          "nomTechnique": "descr_Famille",
+          "libelleFr": "Famille",
+          "ordre": 5,
+          "descriptif": {
+            "libelleFr": "Aires de jeux pour les enfants, toboggan géant, balançoire pour recharger son téléphone, nurserie, prêt de poussette..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 5750743,
+      "nom": {
+        "libelleFr": "Centre Commercial Nice TNL"
+      },
+      "identifier": "SITRA2_COS_5750743",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2021-03-18T15:53:31.850+0000",
+        "dateModification": "2023-06-12T13:43:51.319+0000",
+        "dateExportModification": "2023-06-12T13:43:51.523+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 87471315,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "+33(0)4 93 56 82 40"
+            }
+          },
+          {
+            "identifiant": 87471316,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 204,
+              "libelleFr": "Mél",
+              "ordre": 2
+            },
+            "coordonnees": {
+              "fr": "tnlcontact@orange.fr"
+            }
+          },
+          {
+            "identifiant": 87471317,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 205,
+              "libelleFr": "Site web (URL)",
+              "ordre": 3
+            },
+            "coordonnees": {
+              "fr": "http://www.nicetnl.fr"
+            }
+          },
+          {
+            "identifiant": 87471318,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 207,
+              "libelleFr": "Page facebook",
+              "ordre": 7
+            },
+            "coordonnees": {
+              "fr": "https://www.facebook.com/tnlcentrecommercial?ref=br_rs"
+            }
+          }
+        ],
+        "informationsLegales": {},
+        "structureGestion": {
+          "type": "STRUCTURE",
+          "id": 5750742,
+          "nom": {
+            "libelleFr": "Centre Commercial Nice TNL"
+          },
+          "identifier": "SITRA2_STR_5750742",
+          "state": "PUBLISHED",
+          "adresse": {
+            "adresse1": "15 bd Général Delfino",
+            "codePostal": "06300",
+            "commune": {
+              "id": 37424,
+              "code": "06088",
+              "nom": "Nice",
+              "pays": {
+                "elementReferenceType": "Pays",
+                "id": 532,
+                "libelleFr": "France",
+                "ordre": 78
+              },
+              "codePostal": "06300"
+            }
+          },
+          "geolocalisation": {
+            "valide": true
+          }
+        }
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "Nice TNL : 1h30 de parking gratuit."
+        },
+        "descriptifDetaille": {
+          "libelleFr": "En centre ville, quartier Riquier, 15 000 m2 de jardins aménagés entourent et surplombent ce centre commercial avec un hyper de 6000 m2, 60 boutiques et un parking souterrain.\n \n "
+        }
+      },
+      "localisation": {
+        "adresse": {
+          "adresse1": "15 boulevard Général Delfino",
+          "codePostal": "06300",
+          "commune": {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        },
+        "geolocalisation": {
+          "valide": true,
+          "geoJson": {
+            "type": "Point",
+            "coordinates": [
+              7.28462,
+              43.705399
+            ]
+          }
+        },
+        "perimetreGeographique": [
+          {
+            "id": 37424,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06300"
+          },
+          {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "animauxAcceptes": "NON_ACCEPTES",
+        "tourismesAdaptes": [
+          {
+            "elementReferenceType": "TourismeAdapte",
+            "id": 3653,
+            "libelleFr": "Accessible en fauteuil roulant en autonomie",
+            "ordre": 1,
+            "description": "Pour qu'un site soit accessible en fauteuil roulant en autonomie, il doit répondre à tous les critères listés dans \"Critères d'accessibilité pour personnes à mobilité réduite\".\n \n Une personne en fauteuil roulant est en mesure de prendre son véhicule ou un transport en commun et de se déplacer seule dans les parties communes ou privatives du site.",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 3650,
+              "libelleFr": "Critères d'accessibilité pour déficience motrice",
+              "ordre": 31,
+              "description": "Conditions à remplir pour qu'un site soit considéré comme accessible en fauteuil roulant."
+            }
+          }
+        ],
+        "labelsTourismeHandicap": [
+          {
+            "elementReferenceType": "LabelTourismeHandicap",
+            "id": 1226,
+            "libelleFr": "Marque Tourisme et Handicap - déficience motrice",
+            "ordre": 3,
+            "description": "Critère spécifique de la marque, non-déclaratif."
+          }
+        ]
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Toute l'année.\nOuvert le dimanche matin."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 20815554,
+            "dateDebut": "2023-01-01",
+            "dateFin": "2023-12-31",
+            "complementHoraire": {
+              "libelleFr": "Ouvert le dimanche matin."
+            },
+            "type": "OUVERTURE_TOUS_LES_JOURS",
+            "tousLesAns": true,
+            "identifiantTechnique": 26861637
+          }
+        ],
+        "ouvertTouteLAnnee": "OUVERT_TOUTE_L_ANNEE"
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "contacts": [
+        {
+          "identifiant": 18997886,
+          "referent": true,
+          "civilite": {
+            "elementReferenceType": "ContactCivilite",
+            "id": 442,
+            "libelleFr": "Madame",
+            "ordre": 4
+          },
+          "nom": "ORÉ",
+          "prenom": "Hilde",
+          "fonction": {
+            "elementReferenceType": "ContactFonction",
+            "id": 456,
+            "libelleFr": "Indéterminé",
+            "ordre": 10
+          },
+          "moyensCommunication": [
+            {
+              "identifiant": 88065222,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 204,
+                "libelleFr": "Mél",
+                "ordre": 2
+              },
+              "coordonnees": {
+                "fr": "tnlcontact@orange.fr"
+              }
+            },
+            {
+              "identifiant": 88065223,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 201,
+                "libelleFr": "Téléphone",
+                "ordre": 1
+              },
+              "coordonnees": {
+                "fr": "04 97 12 19 89"
+              }
+            }
+          ]
+        }
+      ],
+      "illustrations": [
+        {
+          "identifiant": 9803509,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "551_1403506720_093.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/221/9559491.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/221/9559491-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/221/9559491-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/221/9559491-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "551_1403506720_093",
+              "taille": 19254,
+              "hauteur": 294,
+              "largeur": 240,
+              "lastModifiedDate": "2021-04-13T15:57:19.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 9803510,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "entrée Mc Do - copie.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/221/9559492.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/221/9559492-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/221/9559492-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/221/9559492-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "entrÃ©e Mc Do - copie",
+              "taille": 194208,
+              "hauteur": 1754,
+              "largeur": 1241,
+              "lastModifiedDate": "2021-04-13T15:57:19.000+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 100012,
+          "nom": {
+            "libelleFr": "GR®5-Alpes"
+          },
+          "identifier": "sitraGEO732242",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100154,
+          "nom": {
+            "libelleFr": "Chemins du Soleil"
+          },
+          "identifier": "sitraGEO732307",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100180,
+          "nom": {
+            "libelleFr": "Route des Grandes Alpes"
+          },
+          "identifier": "sitraGEO732222",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 4920302,
+          "nom": {
+            "libelleFr": "P'tites Routes du Soleil"
+          },
+          "identifier": "SITRA2_GEO_4920302",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5511142,
+          "nom": {
+            "libelleFr": "Littoral autour de Nice"
+          },
+          "identifier": "SITRA2_GEO_5511142",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5674661,
+          "nom": {
+            "libelleFr": "Ville de Nice"
+          },
+          "identifier": "SITRA2_GEO_5674661",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2197,
+            "libelleFr": "Centre commercial / Galerie marchande",
+            "ordre": 346,
+            "description": "Concerne les centres commerciaux et les importantes galeries marchandes (pas celles de 2-3 magasins dans les halls des grandes surfaces alimentaires)",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {
+        "enquetes": [
+          {
+            "identifiant": 2732326,
+            "annee": 2023,
+            "retour": true,
+            "titre": {
+              "elementReferenceType": "EnqueteTitre",
+              "id": 3934,
+              "libelleFr": "Enquête annuelle",
+              "ordre": 1
+            }
+          }
+        ]
+      },
+      "aspects": [
+        {
+          "aspect": "GROUPES",
+          "champsAspect": [
+            "presentation.descriptifDetaille"
+          ],
+          "presentation": {
+            "descriptifDetaille": {
+              "libelleFr": "60 boutiques et restaurants - Parking en sous-sol gratuit 1H30 ."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 5750745,
+      "nom": {
+        "libelleFr": "Centre Commercial Nicetoile"
+      },
+      "identifier": "SITRA2_COS_5750745",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2021-03-18T15:53:38.270+0000",
+        "dateModification": "2023-07-31T09:43:45.218+0000",
+        "dateExportModification": "2023-07-31T09:43:45.459+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 87471325,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "+33(0)4 92 17 38 17"
+            }
+          },
+          {
+            "identifiant": 87471326,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 204,
+              "libelleFr": "Mél",
+              "ordre": 2
+            },
+            "coordonnees": {
+              "fr": "reception.nice.etoile@gmail.com"
+            }
+          },
+          {
+            "identifiant": 87471327,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 205,
+              "libelleFr": "Site web (URL)",
+              "ordre": 3
+            },
+            "coordonnees": {
+              "fr": "http://www.nicetoile.com"
+            }
+          },
+          {
+            "identifiant": 106796285,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 207,
+              "libelleFr": "Page facebook",
+              "ordre": 7
+            },
+            "coordonnees": {
+              "fr": "https://www.instagram.com/nicetoile/"
+            }
+          }
+        ],
+        "informationsLegales": {},
+        "structureGestion": {
+          "type": "STRUCTURE",
+          "id": 5750744,
+          "nom": {
+            "libelleFr": "Centre Commercial Nicetoile"
+          },
+          "identifier": "SITRA2_STR_5750744",
+          "state": "PUBLISHED",
+          "adresse": {
+            "adresse1": "30 av Jean Médecin",
+            "codePostal": "06000",
+            "commune": {
+              "id": 2020,
+              "code": "06088",
+              "nom": "Nice",
+              "pays": {
+                "elementReferenceType": "Pays",
+                "id": 532,
+                "libelleFr": "France",
+                "ordre": 78
+              },
+              "codePostal": "06000"
+            }
+          },
+          "geolocalisation": {
+            "valide": true
+          }
+        }
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "Une destination shopping unique en plein cœur de Nice ! Situé sur la principale artère de la ville Nicetoile regroupe 100 boutiques et restaurants."
+        },
+        "descriptifDetaille": {
+          "libelleFr": "Dans une architecture contemporaine et spacieuse, tous les plaisirs du shopping sont réunis dans un même lieu (Food, mode, Bijoux & accessoires, décoration, beauté, santé, loisirs et services, culture et gastronomie locale...)  \n Services : \n - Réception au niveau 0 avec hôtesses d’accueil multilingues. \n - Parking en sous-sol, ouvert 24h/24h avec 1h de parking offerte dès 50€ d'achats."
+        },
+        "typologiesPromoSitra": [
+          {
+            "elementReferenceType": "TypologiePromoSitra",
+            "id": 1680,
+            "libelleFr": "Qualité Tourisme™",
+            "ordre": 215,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 113,
+              "libelleFr": "National",
+              "ordre": 95
+            }
+          }
+        ]
+      },
+      "localisation": {
+        "adresse": {
+          "adresse1": "30 av Jean Médecin",
+          "codePostal": "06000",
+          "commune": {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        },
+        "geolocalisation": {
+          "valide": true,
+          "geoJson": {
+            "type": "Point",
+            "coordinates": [
+              7.26849,
+              43.701302
+            ]
+          }
+        },
+        "perimetreGeographique": [
+          {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "equipements": [
+          {
+            "elementReferenceType": "PrestationEquipement",
+            "id": 972,
+            "libelleFr": "Parking",
+            "ordre": 219,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 126,
+              "libelleFr": "Stationnement",
+              "ordre": 152
+            }
+          }
+        ],
+        "services": [
+          {
+            "elementReferenceType": "PrestationService",
+            "id": 687,
+            "libelleFr": "Animaux acceptés",
+            "ordre": 358
+          }
+        ],
+        "animauxAcceptes": "ACCEPTES",
+        "languesParlees": [
+          {
+            "elementReferenceType": "Langue",
+            "id": 1192,
+            "libelleFr": "Anglais",
+            "ordre": 2
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1194,
+            "libelleFr": "Espagnol",
+            "ordre": 12
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1200,
+            "libelleFr": "Italien",
+            "ordre": 17
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 4605,
+            "libelleFr": "Arabe",
+            "ordre": 3
+          }
+        ],
+        "tourismesAdaptes": [
+          {
+            "elementReferenceType": "TourismeAdapte",
+            "id": 3653,
+            "libelleFr": "Accessible en fauteuil roulant en autonomie",
+            "ordre": 1,
+            "description": "Pour qu'un site soit accessible en fauteuil roulant en autonomie, il doit répondre à tous les critères listés dans \"Critères d'accessibilité pour personnes à mobilité réduite\".\n \n Une personne en fauteuil roulant est en mesure de prendre son véhicule ou un transport en commun et de se déplacer seule dans les parties communes ou privatives du site.",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 3650,
+              "libelleFr": "Critères d'accessibilité pour déficience motrice",
+              "ordre": 31,
+              "description": "Conditions à remplir pour qu'un site soit considéré comme accessible en fauteuil roulant."
+            }
+          }
+        ]
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Toute l'année \nOuverture le lundi, mardi, mercredi, jeudi, vendredi et samedi de 10h à 20h. Le dimanche de 11h à 19h."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 27524758,
+            "dateDebut": "2023-01-01",
+            "dateFin": "2023-12-31",
+            "type": "OUVERTURE_TOUS_LES_JOURS",
+            "tousLesAns": true,
+            "identifiantTechnique": 27524758
+          }
+        ],
+        "ouvertTouteLAnnee": "OUVERT_TOUTE_L_ANNEE"
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "modesPaiement": [
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 1268,
+            "libelleFr": "Carte bancaire/crédit",
+            "ordre": 5
+          }
+        ],
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "criteresInternes": [
+        {
+          "id": 18305,
+          "libelle": "Guide Pet Friendly",
+          "commentaire": "Fiches faisant partie du de l'offre Pet friendly"
+        },
+        {
+          "id": 18306,
+          "libelle": "Guide Famille",
+          "commentaire": "Fiches faisant partie du Guide Famille"
+        }
+      ],
+      "contacts": [
+        {
+          "identifiant": 18997887,
+          "referent": true,
+          "civilite": {
+            "elementReferenceType": "ContactCivilite",
+            "id": 442,
+            "libelleFr": "Madame",
+            "ordre": 4
+          },
+          "nom": "ROGOPOULOS",
+          "prenom": "Alexandra",
+          "fonction": {
+            "elementReferenceType": "ContactFonction",
+            "id": 458,
+            "libelleFr": "Direction",
+            "ordre": 8
+          },
+          "moyensCommunication": [
+            {
+              "identifiant": 88852545,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 204,
+                "libelleFr": "Mél",
+                "ordre": 2
+              },
+              "coordonnees": {
+                "fr": "arusso_ext@altarea.com"
+              }
+            },
+            {
+              "identifiant": 88852546,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 201,
+                "libelleFr": "Téléphone",
+                "ordre": 1
+              },
+              "coordonnees": {
+                "fr": "04 92 17 38 25"
+              }
+            },
+            {
+              "identifiant": 104065508,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 201,
+                "libelleFr": "Téléphone",
+                "ordre": 1
+              },
+              "coordonnees": {
+                "fr": "07 77 98 46 29"
+              }
+            }
+          ]
+        },
+        {
+          "identifiant": 21867438,
+          "referent": true,
+          "civilite": {
+            "elementReferenceType": "ContactCivilite",
+            "id": 443,
+            "libelleFr": "Monsieur",
+            "ordre": 9
+          },
+          "nom": "Russo",
+          "prenom": "Anthony",
+          "fonction": {
+            "elementReferenceType": "ContactFonction",
+            "id": 467,
+            "libelleFr": "Communication",
+            "ordre": 4
+          },
+          "moyensCommunication": [
+            {
+              "identifiant": 106796286,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 204,
+                "libelleFr": "Mél",
+                "ordre": 2
+              },
+              "coordonnees": {
+                "fr": "arusso_ext@altarea.com"
+              }
+            },
+            {
+              "identifiant": 106796287,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 201,
+                "libelleFr": "Téléphone",
+                "ordre": 1
+              },
+              "coordonnees": {
+                "fr": "617982349"
+              }
+            }
+          ]
+        }
+      ],
+      "illustrations": [
+        {
+          "identifiant": 15499310,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "NICETOILE @Farshid MOMAYEZ  (29).jpg"
+          },
+          "legende": {
+            "libelleFr": "Entrée principale "
+          },
+          "copyright": {
+            "libelleFr": "NICETOILE"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/31/15933315.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/31/15933315-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/31/15933315-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/31/15933315-diaporama.jpg",
+              "urlQHD": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/31/15933315-QHD.jpg",
+              "extension": "jpg",
+              "fileName": "NICETOILE @Farshid MOMAYEZ  (29)",
+              "taille": 4492485,
+              "hauteur": 2000,
+              "largeur": 3000,
+              "lastModifiedDate": "2023-01-02T11:00:13.877+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 15499311,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "NICETOILE @Farshid MOMAYEZ  (74).jpg"
+          },
+          "legende": {
+            "libelleFr": "Trémie centrale"
+          },
+          "copyright": {
+            "libelleFr": "NICETOILE"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/31/15933316.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/31/15933316-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/31/15933316-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/31/15933316-diaporama.jpg",
+              "urlQHD": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/31/15933316-QHD.jpg",
+              "extension": "jpg",
+              "fileName": "NICETOILE @Farshid MOMAYEZ  (74)",
+              "taille": 3933822,
+              "hauteur": 2000,
+              "largeur": 3000,
+              "lastModifiedDate": "2023-01-02T10:59:57.756+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 15499312,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "NICETOILE @Farshid MOMAYEZ  (72).jpg"
+          },
+          "legende": {
+            "libelleFr": "Entrée principale "
+          },
+          "copyright": {
+            "libelleFr": "NICETOILE"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/31/15933317.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/31/15933317-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/31/15933317-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/31/15933317-diaporama.jpg",
+              "urlQHD": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/31/15933317-QHD.jpg",
+              "extension": "jpg",
+              "fileName": "NICETOILE @Farshid MOMAYEZ  (72)",
+              "taille": 4656919,
+              "hauteur": 2000,
+              "largeur": 3000,
+              "lastModifiedDate": "2023-01-02T11:00:00.931+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 15499313,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "NICETOILE @Farshid MOMAYEZ  (28).jpg"
+          },
+          "legende": {
+            "libelleFr": "Vue extérieure "
+          },
+          "copyright": {
+            "libelleFr": "NICETOILE"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/31/15933318.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/31/15933318-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/31/15933318-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/31/15933318-diaporama.jpg",
+              "urlQHD": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/31/15933318-QHD.jpg",
+              "extension": "jpg",
+              "fileName": "NICETOILE @Farshid MOMAYEZ  (28)",
+              "taille": 5717746,
+              "hauteur": 2000,
+              "largeur": 3000,
+              "lastModifiedDate": "2023-01-02T11:00:04.967+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 15499314,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "NICETOILE @Farshid MOMAYEZ  (57).jpg"
+          },
+          "legende": {
+            "libelleFr": "Commerces"
+          },
+          "copyright": {
+            "libelleFr": "NICETOILE"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/31/15933319.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/31/15933319-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/31/15933319-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/31/15933319-diaporama.jpg",
+              "urlQHD": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/31/15933319-QHD.jpg",
+              "extension": "jpg",
+              "fileName": "NICETOILE @Farshid MOMAYEZ  (57)",
+              "taille": 5036392,
+              "hauteur": 2000,
+              "largeur": 3000,
+              "lastModifiedDate": "2023-01-02T11:00:09.266+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 15499315,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "Nice_etoile.jpg"
+          },
+          "legende": {
+            "libelleFr": "Logo "
+          },
+          "copyright": {
+            "libelleFr": "NICETOILE"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/31/15933320.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/31/15933320-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/31/15933320-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/31/15933320-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "Nice_etoile",
+              "taille": 61775,
+              "hauteur": 678,
+              "largeur": 500,
+              "lastModifiedDate": "2023-01-02T10:59:57.146+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "multimedias": [
+        {
+          "identifiant": 15499316,
+          "link": true,
+          "type": "INSTAGRAM",
+          "nom": {
+            "libelleFr": "Nicetoile"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://www.instagram.com/nicetoile/"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 15499317,
+          "link": false,
+          "type": "LOGO",
+          "nom": {
+            "libelleFr": "NICETOILE_logo_noir.pdf"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/logos/138/31/15933322/NICETOILE_logo_noir.pdf",
+              "extension": "pdf",
+              "fileName": "NICETOILE_logo_noir",
+              "taille": 245928,
+              "lastModifiedDate": "2023-01-02T10:59:57.558+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 100012,
+          "nom": {
+            "libelleFr": "GR®5-Alpes"
+          },
+          "identifier": "sitraGEO732242",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100154,
+          "nom": {
+            "libelleFr": "Chemins du Soleil"
+          },
+          "identifier": "sitraGEO732307",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100180,
+          "nom": {
+            "libelleFr": "Route des Grandes Alpes"
+          },
+          "identifier": "sitraGEO732222",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 4920302,
+          "nom": {
+            "libelleFr": "P'tites Routes du Soleil"
+          },
+          "identifier": "SITRA2_GEO_4920302",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5511142,
+          "nom": {
+            "libelleFr": "Littoral autour de Nice"
+          },
+          "identifier": "SITRA2_GEO_5511142",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5674661,
+          "nom": {
+            "libelleFr": "Ville de Nice"
+          },
+          "identifier": "SITRA2_GEO_5674661",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2197,
+            "libelleFr": "Centre commercial / Galerie marchande",
+            "ordre": 346,
+            "description": "Concerne les centres commerciaux et les importantes galeries marchandes (pas celles de 2-3 magasins dans les halls des grandes surfaces alimentaires)",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {
+        "enquetes": [
+          {
+            "identifiant": 2382579,
+            "annee": 2023,
+            "retour": true,
+            "titre": {
+              "elementReferenceType": "EnqueteTitre",
+              "id": 3934,
+              "libelleFr": "Enquête annuelle",
+              "ordre": 1
+            }
+          }
+        ]
+      },
+      "donneesPrivees": [
+        {
+          "nomTechnique": "descr_Famille",
+          "libelleFr": "Famille",
+          "ordre": 5,
+          "descriptif": {
+            "libelleFr": "Espace change-bébé - niveau 2\n Prêt de poussettes à la réception"
+          }
+        }
+      ],
+      "aspects": [
+        {
+          "aspect": "GROUPES",
+          "champsAspect": [
+            "presentation.descriptifDetaille"
+          ],
+          "presentation": {
+            "descriptifDetaille": {
+              "libelleFr": "Détaxe groupée - Informations à la réception de Nicetoile niveau 0 "
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 5750900,
+      "nom": {
+        "libelleFr": "Fnac"
+      },
+      "identifier": "SITRA2_COS_5750900",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2021-03-18T15:58:14.801+0000",
+        "dateModification": "2023-06-12T13:43:18.690+0000",
+        "dateExportModification": "2023-06-12T13:43:18.849+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 87471979,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "+33(0)892 35 04 05"
+            }
+          },
+          {
+            "identifiant": 87471980,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 204,
+              "libelleFr": "Mél",
+              "ordre": 2
+            },
+            "coordonnees": {
+              "fr": "nice@fnac.tm.fr"
+            }
+          },
+          {
+            "identifiant": 95381233,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 205,
+              "libelleFr": "Site web (URL)",
+              "ordre": 3
+            },
+            "coordonnees": {
+              "fr": "https://www.fnac.com/Nice/Fnac-Nice/cl81/w-4"
+            }
+          }
+        ],
+        "informationsLegales": {},
+        "structureGestion": {
+          "type": "STRUCTURE",
+          "id": 5750899,
+          "nom": {
+            "libelleFr": "Fnac"
+          },
+          "identifier": "SITRA2_STR_5750899",
+          "state": "PUBLISHED",
+          "adresse": {
+            "adresse1": "44 av Jean Médecin",
+            "codePostal": "06000",
+            "commune": {
+              "id": 2020,
+              "code": "06088",
+              "nom": "Nice",
+              "pays": {
+                "elementReferenceType": "Pays",
+                "id": 532,
+                "libelleFr": "France",
+                "ordre": 78
+              },
+              "codePostal": "06000"
+            }
+          },
+          "geolocalisation": {
+            "valide": true
+          }
+        }
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "La Fnac Nice vous accueille dans son magasin d’une superficie de 3700m2 sur 4 étages."
+        },
+        "descriptifDetaille": {
+          "libelleFr": "Vous y retrouverez tous les univers livres, musique, vidéo, vinyle, Petit-électroménager, micro‐informatique, objets connectés, jeux vidéos, téléphonie, son, photo, TV, papeterie..."
+        }
+      },
+      "localisation": {
+        "adresse": {
+          "adresse1": "44 avenue Jean Médecin",
+          "codePostal": "06000",
+          "commune": {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        },
+        "geolocalisation": {
+          "valide": true,
+          "geoJson": {
+            "type": "Point",
+            "coordinates": [
+              7.26669,
+              43.702999
+            ]
+          }
+        },
+        "perimetreGeographique": [
+          {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "animauxAcceptes": "NON_ACCEPTES"
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Toute l'année.\nFermetures exceptionnelles les 1er janvier et 25 décembre."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 20815566,
+            "dateDebut": "2023-01-01",
+            "dateFin": "2023-12-31",
+            "type": "OUVERTURE_TOUS_LES_JOURS",
+            "tousLesAns": true,
+            "identifiantTechnique": 26862174
+          }
+        ],
+        "fermeturesExceptionnelles": [
+          {
+            "dateSpeciale": "PREMIER_JANVIER"
+          },
+          {
+            "dateSpeciale": "VINGT_CINQ_DECEMBRE"
+          }
+        ],
+        "ouvertTouteLAnnee": "OUVERT_TOUTE_L_ANNEE"
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "illustrations": [
+        {
+          "identifiant": 9803559,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "fnac.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/221/9559541.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/221/9559541-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/221/9559541-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/221/9559541-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "fnac",
+              "taille": 21307,
+              "hauteur": 493,
+              "largeur": 500,
+              "lastModifiedDate": "2021-04-13T15:59:04.000+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 100012,
+          "nom": {
+            "libelleFr": "GR®5-Alpes"
+          },
+          "identifier": "sitraGEO732242",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100154,
+          "nom": {
+            "libelleFr": "Chemins du Soleil"
+          },
+          "identifier": "sitraGEO732307",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100180,
+          "nom": {
+            "libelleFr": "Route des Grandes Alpes"
+          },
+          "identifier": "sitraGEO732222",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 4920302,
+          "nom": {
+            "libelleFr": "P'tites Routes du Soleil"
+          },
+          "identifier": "SITRA2_GEO_4920302",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5511142,
+          "nom": {
+            "libelleFr": "Littoral autour de Nice"
+          },
+          "identifier": "SITRA2_GEO_5511142",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5674661,
+          "nom": {
+            "libelleFr": "Ville de Nice"
+          },
+          "identifier": "SITRA2_GEO_5674661",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2190,
+            "libelleFr": "Grand magasin",
+            "ordre": 350,
+            "description": "Un grand magasin est un commerce de centre ville caractérisé par une grande surface de vente répartie sur plusieurs niveaux,\n un assortiment très large essentiellement basé sur l’équipement de la maison et de la personne et par des ventes réalisées en libre service assisté.\n A l’origine uniquement parisiennes, certaines enseignes se sont implantées dans quelques grandes villes de province.\n Les grandes enseignes sont le BHV, le Printemps, les Galeries Lafayettes...",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {
+        "enquetes": [
+          {
+            "identifiant": 2732325,
+            "annee": 2023,
+            "retour": true,
+            "titre": {
+              "elementReferenceType": "EnqueteTitre",
+              "id": 3934,
+              "libelleFr": "Enquête annuelle",
+              "ordre": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 5751385,
+      "nom": {
+        "libelleFr": "Zara"
+      },
+      "identifier": "SITRA2_COS_5751385",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2021-03-18T16:10:47.169+0000",
+        "dateModification": "2023-08-22T12:25:48.047+0000",
+        "dateExportModification": "2023-08-22T12:25:48.202+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 87473639,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "+33(0)4 93 13 76 50"
+            }
+          },
+          {
+            "identifiant": 115987797,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 204,
+              "libelleFr": "Mél",
+              "ordre": 2
+            },
+            "coordonnees": {
+              "fr": "contact.fr@zara.com"
+            }
+          }
+        ],
+        "informationsLegales": {},
+        "structureGestion": {
+          "type": "STRUCTURE",
+          "id": 5751384,
+          "nom": {
+            "libelleFr": "Zara"
+          },
+          "identifier": "SITRA2_STR_5751384",
+          "state": "PUBLISHED",
+          "adresse": {
+            "adresse1": "10 av Jean Médecin",
+            "codePostal": "06000",
+            "commune": {
+              "id": 2020,
+              "code": "06088",
+              "nom": "Nice",
+              "pays": {
+                "elementReferenceType": "Pays",
+                "id": 532,
+                "libelleFr": "France",
+                "ordre": 78
+              },
+              "codePostal": "06000"
+            }
+          },
+          "geolocalisation": {
+            "valide": true
+          }
+        }
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "Vêtements de mode pour enfants et adultes."
+        }
+      },
+      "localisation": {
+        "adresse": {
+          "adresse1": "10 av Jean Médecin",
+          "codePostal": "06000",
+          "commune": {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        },
+        "geolocalisation": {
+          "valide": true,
+          "geoJson": {
+            "type": "Point",
+            "coordinates": [
+              7.26892,
+              43.699402
+            ]
+          }
+        },
+        "perimetreGeographique": [
+          {
+            "id": 2020,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06000"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "animauxAcceptes": "NON_ACCEPTES"
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Du 01/01 au 31/12.\nFermetures exceptionnelles les 1er janvier et 25 décembre."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 20815568,
+            "dateDebut": "2020-01-01",
+            "dateFin": "2020-12-31",
+            "type": "OUVERTURE_TOUS_LES_JOURS",
+            "tousLesAns": true,
+            "identifiantTechnique": 27690285
+          }
+        ],
+        "fermeturesExceptionnelles": [
+          {
+            "dateSpeciale": "PREMIER_JANVIER"
+          },
+          {
+            "dateSpeciale": "VINGT_CINQ_DECEMBRE"
+          }
+        ]
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "illustrations": [
+        {
+          "identifiant": 9803564,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "Capture dâeÌcran 2020-11-27 aÌ 09.52.38.png"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/221/9559546.png",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/221/9559546-liste.png",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/221/9559546-fiche.png",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/221/9559546-diaporama.png",
+              "extension": "png",
+              "fileName": "Capture dÃ¢ÂÂeÃÂcran 2020-11-27 aÃÂ 09.52.38",
+              "taille": 502123,
+              "hauteur": 482,
+              "largeur": 916,
+              "lastModifiedDate": "2021-04-13T15:59:18.000+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 9803565,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "resource-2.jpg"
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/221/9559547.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/221/9559547-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/221/9559547-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/221/9559547-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "resource-2",
+              "taille": 30915,
+              "hauteur": 600,
+              "largeur": 600,
+              "lastModifiedDate": "2021-04-13T15:59:19.000+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 100012,
+          "nom": {
+            "libelleFr": "GR®5-Alpes"
+          },
+          "identifier": "sitraGEO732242",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100154,
+          "nom": {
+            "libelleFr": "Chemins du Soleil"
+          },
+          "identifier": "sitraGEO732307",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100180,
+          "nom": {
+            "libelleFr": "Route des Grandes Alpes"
+          },
+          "identifier": "sitraGEO732222",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 4920302,
+          "nom": {
+            "libelleFr": "P'tites Routes du Soleil"
+          },
+          "identifier": "SITRA2_GEO_4920302",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5511142,
+          "nom": {
+            "libelleFr": "Littoral autour de Nice"
+          },
+          "identifier": "SITRA2_GEO_5511142",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5674661,
+          "nom": {
+            "libelleFr": "Ville de Nice"
+          },
+          "identifier": "SITRA2_GEO_5674661",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2060,
+            "libelleFr": "Vêtements et accessoires",
+            "ordre": 373,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2190,
+            "libelleFr": "Grand magasin",
+            "ordre": 350,
+            "description": "Un grand magasin est un commerce de centre ville caractérisé par une grande surface de vente répartie sur plusieurs niveaux,\n un assortiment très large essentiellement basé sur l’équipement de la maison et de la personne et par des ventes réalisées en libre service assisté.\n A l’origine uniquement parisiennes, certaines enseignes se sont implantées dans quelques grandes villes de province.\n Les grandes enseignes sont le BHV, le Printemps, les Galeries Lafayettes...",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {}
+    },
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 5761231,
+      "nom": {
+        "libelleFr": "Galeries Lafayette Cap 3000"
+      },
+      "identifier": "SITRA2_COS_5761231",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2021-03-31T15:34:31.446+0000",
+        "dateModification": "2023-03-15T12:39:14.886+0000",
+        "dateExportModification": "2023-05-01T05:21:25.758+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 87752385,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "+33(0)4 93 14 82 12"
+            }
+          },
+          {
+            "identifiant": 109919130,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 204,
+              "libelleFr": "Mél",
+              "ordre": 2
+            },
+            "coordonnees": {
+              "fr": "serviceclientcap3000@galerieslafayette.com"
+            }
+          },
+          {
+            "identifiant": 109919131,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 205,
+              "libelleFr": "Site web (URL)",
+              "ordre": 3
+            },
+            "coordonnees": {
+              "fr": "https://www.galerieslafayette.com/m/magasin-nice-cap-3000"
+            }
+          },
+          {
+            "identifiant": 109919132,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 207,
+              "libelleFr": "Page facebook",
+              "ordre": 7
+            },
+            "coordonnees": {
+              "fr": "https://www.facebook.com/GaleriesLafayetteCap3000/?locale=fr_FR"
+            }
+          },
+          {
+            "identifiant": 87752386,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 202,
+              "libelleFr": "Fax",
+              "ordre": 5
+            },
+            "coordonnees": {
+              "fr": "+33(0)4 93 31 05 45"
+            }
+          }
+        ]
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "Retrouvez toutes les plus belles marques de prêt-à-porter (Homme, Femme et Enfant), d’articles de beauté de luxe, bijouterie et de déco pour la maison.\n "
+        }
+      },
+      "localisation": {
+        "adresse": {
+          "adresse1": "B.P. 126",
+          "adresse2": "Av Guynemer",
+          "codePostal": "06700",
+          "commune": {
+            "id": 2055,
+            "code": "06123",
+            "nom": "Saint-Laurent-du-Var",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06700"
+          }
+        },
+        "geolocalisation": {
+          "valide": true,
+          "geoJson": {
+            "type": "Point",
+            "coordinates": [
+              7.19693,
+              43.6614
+            ]
+          }
+        },
+        "perimetreGeographique": [
+          {
+            "id": 2055,
+            "code": "06123",
+            "nom": "Saint-Laurent-du-Var",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06700"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "animauxAcceptes": "NON_DISPONIBLE",
+        "languesParlees": [
+          {
+            "elementReferenceType": "Langue",
+            "id": 1192,
+            "libelleFr": "Anglais",
+            "ordre": 2
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1194,
+            "libelleFr": "Espagnol",
+            "ordre": 12
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1200,
+            "libelleFr": "Italien",
+            "ordre": 17
+          },
+          {
+            "elementReferenceType": "Langue",
+            "id": 1205,
+            "libelleFr": "Russe",
+            "ordre": 27
+          }
+        ],
+        "tourismesAdaptes": [
+          {
+            "elementReferenceType": "TourismeAdapte",
+            "id": 3653,
+            "libelleFr": "Accessible en fauteuil roulant en autonomie",
+            "ordre": 1,
+            "description": "Pour qu'un site soit accessible en fauteuil roulant en autonomie, il doit répondre à tous les critères listés dans \"Critères d'accessibilité pour personnes à mobilité réduite\".\n \n Une personne en fauteuil roulant est en mesure de prendre son véhicule ou un transport en commun et de se déplacer seule dans les parties communes ou privatives du site.",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 3650,
+              "libelleFr": "Critères d'accessibilité pour déficience motrice",
+              "ordre": 31,
+              "description": "Conditions à remplir pour qu'un site soit considéré comme accessible en fauteuil roulant."
+            }
+          }
+        ]
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Du 02/01 au 31/12 de 10h à 20h.\nFermetures exceptionnelles les 1er mai et 25 décembre."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 20815580,
+            "dateDebut": "2023-01-02",
+            "dateFin": "2023-12-31",
+            "horaireOuverture": "10:00:00",
+            "horaireFermeture": "20:00:00",
+            "type": "OUVERTURE_TOUS_LES_JOURS",
+            "tousLesAns": true,
+            "identifiantTechnique": 25935649
+          }
+        ],
+        "fermeturesExceptionnelles": [
+          {
+            "dateSpeciale": "PREMIER_JANVIER"
+          },
+          {
+            "dateSpeciale": "PREMIER_MAI"
+          },
+          {
+            "dateSpeciale": "VINGT_CINQ_DECEMBRE"
+          }
+        ]
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "modesPaiement": [
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 1265,
+            "libelleFr": "American Express",
+            "ordre": 2
+          },
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 1268,
+            "libelleFr": "Carte bancaire/crédit",
+            "ordre": 5
+          },
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 1277,
+            "libelleFr": "Espèces",
+            "ordre": 25
+          },
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 5868,
+            "libelleFr": "Union Pay",
+            "ordre": 39
+          },
+          {
+            "elementReferenceType": "ModePaiement",
+            "id": 6284,
+            "libelleFr": "Apple Pay",
+            "ordre": 3,
+            "description": "Service de paiement mobile proposé par Apple"
+          }
+        ],
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "contacts": [
+        {
+          "identifiant": 19048811,
+          "referent": true,
+          "civilite": {
+            "elementReferenceType": "ContactCivilite",
+            "id": 443,
+            "libelleFr": "Monsieur",
+            "ordre": 9
+          },
+          "nom": "SERNIT",
+          "prenom": "Guillaume",
+          "fonction": {
+            "elementReferenceType": "ContactFonction",
+            "id": 467,
+            "libelleFr": "Communication",
+            "ordre": 4
+          },
+          "moyensCommunication": [
+            {
+              "identifiant": 88065565,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 204,
+                "libelleFr": "Mél",
+                "ordre": 2
+              },
+              "coordonnees": {
+                "fr": "gsernit@galerieslafayette.com"
+              }
+            },
+            {
+              "identifiant": 109919133,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 201,
+                "libelleFr": "Téléphone",
+                "ordre": 1
+              },
+              "coordonnees": {
+                "fr": "492278132"
+              }
+            }
+          ]
+        }
+      ],
+      "illustrations": [
+        {
+          "identifiant": 16392838,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "Façade Beauté.jpg"
+          },
+          "legende": {},
+          "copyright": {
+            "libelleFr": "GL CAP "
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/5/16844273.jpg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/5/16844273-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/5/16844273-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/5/16844273-diaporama.jpg",
+              "extension": "jpg",
+              "fileName": "FaÃ§ade BeautÃ©",
+              "taille": 61463,
+              "hauteur": 155,
+              "largeur": 295,
+              "lastModifiedDate": "2023-03-15T12:39:14.971+0000"
+            }
+          ],
+          "locked": false
+        },
+        {
+          "identifiant": 16392839,
+          "link": false,
+          "type": "IMAGE",
+          "nom": {
+            "libelleFr": "Guillaume Sernit"
+          },
+          "legende": {},
+          "copyright": {
+            "libelleFr": "GL CAP "
+          },
+          "traductionFichiers": [
+            {
+              "locale": "fr",
+              "url": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/5/16844274.jpeg",
+              "urlListe": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/5/16844274-liste.jpg",
+              "urlFiche": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/5/16844274-fiche.jpg",
+              "urlDiaporama": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/5/16844274-diaporama.jpg",
+              "extension": "jpeg",
+              "fileName": "gl",
+              "taille": 958333,
+              "hauteur": 2048,
+              "largeur": 2048,
+              "lastModifiedDate": "2023-03-15T12:39:15.281+0000"
+            }
+          ],
+          "locked": false
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 100154,
+          "nom": {
+            "libelleFr": "Chemins du Soleil"
+          },
+          "identifier": "sitraGEO732307",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 4920302,
+          "nom": {
+            "libelleFr": "P'tites Routes du Soleil"
+          },
+          "identifier": "SITRA2_GEO_4920302",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5511142,
+          "nom": {
+            "libelleFr": "Littoral autour de Nice"
+          },
+          "identifier": "SITRA2_GEO_5511142",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2057,
+            "libelleFr": "Décoration / Ameublement / Création",
+            "ordre": 320,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2058,
+            "libelleFr": "Divers autres commerces",
+            "ordre": 380,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2060,
+            "libelleFr": "Vêtements et accessoires",
+            "ordre": 373,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2161,
+            "libelleFr": "Boutique de luxe",
+            "ordre": 399,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2058,
+              "libelleFr": "Divers autres commerces",
+              "ordre": 380
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2197,
+            "libelleFr": "Centre commercial / Galerie marchande",
+            "ordre": 346,
+            "description": "Concerne les centres commerciaux et les importantes galeries marchandes (pas celles de 2-3 magasins dans les halls des grandes surfaces alimentaires)",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {
+        "enquetes": [
+          {
+            "identifiant": 2605798,
+            "annee": 2023,
+            "retour": true,
+            "titre": {
+              "elementReferenceType": "EnqueteTitre",
+              "id": 3934,
+              "libelleFr": "Enquête annuelle",
+              "ordre": 1
+            }
+          }
+        ]
+      },
+      "donneesPrivees": [
+        {
+          "nomTechnique": "descr_Frp",
+          "libelleFr": "FRP",
+          "ordre": 1,
+          "descriptif": {}
+        }
+      ]
+    },
+    {
+      "type": "COMMERCE_ET_SERVICE",
+      "id": 6139162,
+      "nom": {
+        "libelleFr": "Centre Commercial Nice Valley"
+      },
+      "identifier": "SITRA2_COS_6139162",
+      "state": "PUBLISHED",
+      "gestion": {
+        "dateCreation": "2022-05-18T07:49:50.787+0000",
+        "dateModification": "2023-09-04T08:19:55.720+0000",
+        "dateExportModification": "2023-09-04T08:19:55.973+0000",
+        "membreProprietaire": {
+          "type": {
+            "elementReferenceType": "MembreSitraType",
+            "id": 233,
+            "libelleFr": "Contributeur Généraliste",
+            "ordre": 1
+          },
+          "nom": "Office de Tourisme Métropolitain Nice Côte d'Azur",
+          "dateCreation": "2020-04-10T06:45:14.418+0000",
+          "dateModification": "2023-09-12T10:02:43.057+0000",
+          "id": 2013,
+          "siteWeb": "https://www.explorenicecotedazur.com/"
+        },
+        "signalerUnProblemeMails": [
+          "sylvie.ardino@nicecotedazurtourisme.com",
+          "murielle.bonazza@nicecotedazurtourisme.com"
+        ]
+      },
+      "informations": {
+        "moyensCommunication": [
+          {
+            "identifiant": 99503973,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 201,
+              "libelleFr": "Téléphone",
+              "ordre": 1
+            },
+            "coordonnees": {
+              "fr": "04 93 44 43 54"
+            }
+          },
+          {
+            "identifiant": 99504778,
+            "type": {
+              "elementReferenceType": "MoyenCommunicationType",
+              "id": 205,
+              "libelleFr": "Site web (URL)",
+              "ordre": 3
+            },
+            "coordonnees": {
+              "fr": "https://www.nice-valley.fr/"
+            }
+          }
+        ]
+      },
+      "presentation": {
+        "descriptifCourt": {
+          "libelleFr": "Adossé au stade Allianz Riviera, Nice Valley est le lieu idéal pour tous les amateurs de shopping."
+        },
+        "descriptifDetaille": {
+          "libelleFr": "Ce centre propose 29000 m2 de surface dédiée aux commerces les plus divers. Ouvert depuis septembre 2016, il attire chaque jour de nombreux visiteurs. Boutiques, décoration, ameublement, culture, restauration et plus de 800  places de parking. A proximité immédiate, la célèbre marque de meuble suédoise, Ikea, vient d'ouvrir ses portes, sur 40000 m2."
+        }
+      },
+      "localisation": {
+        "adresse": {
+          "adresse1": "Zone Commerciale",
+          "adresse2": "Rue Alain Mimoun",
+          "codePostal": "06200",
+          "etat": "France",
+          "commune": {
+            "id": 37423,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06200"
+          }
+        },
+        "geolocalisation": {},
+        "perimetreGeographique": [
+          {
+            "id": 37423,
+            "code": "06088",
+            "nom": "Nice",
+            "pays": {
+              "elementReferenceType": "Pays",
+              "id": 532,
+              "libelleFr": "France",
+              "ordre": 78
+            },
+            "codePostal": "06200"
+          }
+        ]
+      },
+      "liens": {},
+      "prestations": {
+        "animauxAcceptes": "NON_DISPONIBLE",
+        "languesParlees": [
+          {
+            "elementReferenceType": "Langue",
+            "id": 1197,
+            "libelleFr": "Français",
+            "ordre": 13
+          }
+        ]
+      },
+      "ouverture": {
+        "periodeEnClair": {
+          "libelleFr": "Du 01/01 au 31/12 \nOuverture le lundi, mardi, mercredi, jeudi et vendredi de 6h à 0h. Le samedi de 8h30 à 0h. Le dimanche de 9h à 0h."
+        },
+        "periodeEnClairGenerationMode": "AUTOMATIQUE",
+        "indicationsPeriode": [
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 416,
+            "libelleFr": "Automne",
+            "ordre": 4,
+            "description": "Permet de trouver des objets en fonction de la saison automnale - 21 septembre au 20 décembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 418,
+            "libelleFr": "Eté",
+            "ordre": 3,
+            "description": "Permet de trouver des objets en fonction de la saison estivale - 21 juin au 20 septembre",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 435,
+            "libelleFr": "Hiver",
+            "ordre": 5,
+            "description": "Permet de trouver des objets en fonction de la saison hivernale - 21 décembre au 20 mars",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          },
+          {
+            "elementReferenceType": "IndicationPeriode",
+            "id": 436,
+            "libelleFr": "Printemps",
+            "ordre": 2,
+            "description": "Permet de trouver des objets en fonction de la saison printanière - 21 mars au 20 juin",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 114,
+              "libelleFr": "Période",
+              "ordre": 113
+            }
+          }
+        ],
+        "periodesOuvertures": [
+          {
+            "identifiant": 23362702,
+            "dateDebut": "2022-01-01",
+            "dateFin": "2022-12-31",
+            "type": "OUVERTURE_TOUS_LES_JOURS",
+            "tousLesAns": true,
+            "identifiantTechnique": 27797304
+          }
+        ]
+      },
+      "descriptionTarif": {
+        "indicationTarif": "PAYANT",
+        "gratuit": false,
+        "tarifsEnClairGenerationMode": "MANUEL",
+        "devise": "EUR",
+        "conditions": {}
+      },
+      "reservation": {},
+      "contacts": [
+        {
+          "identifiant": 23377927,
+          "referent": true,
+          "moyensCommunication": [
+            {
+              "identifiant": 115987891,
+              "type": {
+                "elementReferenceType": "MoyenCommunicationType",
+                "id": 204,
+                "libelleFr": "Mél",
+                "ordre": 2
+              },
+              "coordonnees": {
+                "fr": "nicevalleycentre@gmail.com"
+              }
+            }
+          ]
+        }
+      ],
+      "territoires": [
+        {
+          "type": "TERRITOIRE",
+          "id": 100012,
+          "nom": {
+            "libelleFr": "GR®5-Alpes"
+          },
+          "identifier": "sitraGEO732242",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100154,
+          "nom": {
+            "libelleFr": "Chemins du Soleil"
+          },
+          "identifier": "sitraGEO732307",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 100180,
+          "nom": {
+            "libelleFr": "Route des Grandes Alpes"
+          },
+          "identifier": "sitraGEO732222",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 585905,
+          "nom": {
+            "libelleFr": "Alpes Maritimes"
+          },
+          "identifier": "SITRA2_GEO_585905",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 591419,
+          "nom": {
+            "libelleFr": "Provence Alpes Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_591419",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 4920302,
+          "nom": {
+            "libelleFr": "P'tites Routes du Soleil"
+          },
+          "identifier": "SITRA2_GEO_4920302",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5127176,
+          "nom": {
+            "libelleFr": "Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5127176",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5505653,
+          "nom": {
+            "libelleFr": "Métropole Nice Côte d'Azur"
+          },
+          "identifier": "SITRA2_GEO_5505653",
+          "state": "PUBLISHED"
+        },
+        {
+          "type": "TERRITOIRE",
+          "id": 5674661,
+          "nom": {
+            "libelleFr": "Ville de Nice"
+          },
+          "identifier": "SITRA2_GEO_5674661",
+          "state": "PUBLISHED"
+        }
+      ],
+      "informationsCommerceEtService": {
+        "commerceEtServiceType": {
+          "elementReferenceType": "CommerceEtServiceType",
+          "id": 1874,
+          "libelleFr": "Commerces",
+          "ordre": 1
+        },
+        "typesDetailles": [
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2061,
+            "libelleFr": "Petite à Grande distribution",
+            "ordre": 343,
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            }
+          },
+          {
+            "elementReferenceType": "CommerceEtServiceTypeDetaille",
+            "id": 2197,
+            "libelleFr": "Centre commercial / Galerie marchande",
+            "ordre": 346,
+            "description": "Concerne les centres commerciaux et les importantes galeries marchandes (pas celles de 2-3 magasins dans les halls des grandes surfaces alimentaires)",
+            "familleCritere": {
+              "elementReferenceType": "FamilleCritere",
+              "id": 13,
+              "libelleFr": "Commerces",
+              "ordre": 26
+            },
+            "parent": {
+              "elementReferenceType": "CommerceEtServiceTypeDetaille",
+              "id": 2061,
+              "libelleFr": "Petite à Grande distribution",
+              "ordre": 343
+            }
+          }
+        ]
+      },
+      "formatVersion": "v002",
+      "expiration": {},
+      "informationsPrestataireActivites": {
+        "prestataireActivites": false
+      },
+      "enquete": {}
+    }
+  ],
+  "formatVersion": "v002"
+}
