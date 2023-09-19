@@ -9,11 +9,42 @@
     crossorigin=""></script>
 	<title>GeoCarto</title>
 	<meta charset="utf-8"/>
-    <script src="script.js"></script>
-    <style src="style.css"></style>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
     <button id="get-location">Afficher position</button>
     <div id="map"></div>
 </body>
+<script>
+
+var map = L.map('map').setView([51.505, -0.09], 13);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
+
+let button = document.getElementById("get-location");
+
+
+button.addEventListener("click", () => {
+  navigator.geolocation.getCurrentPosition((position) => {
+    let lat = position.coords.latitude || 0;
+    let long = position.coords.longitude || 0;
+    let acc = position.coords.accuracy || 0;
+
+    map.setView([lat.toFixed(8), long.toFixed(8)], 16);
+
+    var marker = L.marker([lat.toFixed(8), long.toFixed(8)]).addTo(map);
+    var marker2 = L.marker([43.7,  7.25]).addTo(map);
+
+    var circle = L.circle([lat.toFixed(8), long.toFixed(8)], {
+        color: 'red',
+        fillColor: '#f03',
+        fillOpacity: 0.2,
+        radius: acc
+    }).addTo(map);
+  });
+});
+
+</script>
 </html>
